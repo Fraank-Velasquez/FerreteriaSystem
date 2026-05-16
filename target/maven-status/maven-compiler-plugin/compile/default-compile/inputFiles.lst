@@ -1,42 +1,42 @@
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\DetalleDeVenta.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOClientes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOProducto.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\Producto.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\DetalleVenta.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\PerfilView.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Ventas.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\GraficoDeVentas.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOClientesImpl.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Login\Login.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\Proveedor.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\ConexionDB.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Inventario.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\FacturasEnPDF.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddNuevasVentas.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOUsuariosImpl.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddNuevoUsuarios.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOProveedores.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\mainConexion.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\MainAPP.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\Venta.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsEdit\EditProveedor.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsEdit\EditClientes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddNewPassword.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddNuevoClientes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Provedores.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddProductoVentana.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsEdit\EditProduct.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOProductoImpl.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\Cliente.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOVentaImpl.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Reportes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOProveedoresImpl.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Logic\Clases\Usuario.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOVenta.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\FormsAdd\AddNuevoProveedor.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOUsuarios.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Clientes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Principal\Principal.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\Interfaces\DAOReportes.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\GUI\Modulos\Inicio.java
-C:\Users\Frank\Documents\NetBeansProjects\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Persistence\DAO\DAOReportesImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Login\Login.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddNuevoProveedor.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsEdit\EditClientes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Inicio.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Conexion\ConexionDB.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\DetalleVenta.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddNuevoUsuarios.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Conexion\PruebaConexion.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOReportesImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\Usuario.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddNewPassword.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Principal\Principal.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOClientesImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\Cliente.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\MainAPP.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Ventas.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\Venta.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOUsuarios.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Clientes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOProducto.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOReportes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Inventario.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOUsuariosImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Reportes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOProductoImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOProveedoresImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\Proveedor.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOClientes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsEdit\EditProduct.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\PerfilView.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\FacturasEnPDF.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddNuevasVentas.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddProductoVentana.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\Producto.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\AddNuevoClientes.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\DAOImplementacion\DAOVentaImpl.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOProveedores.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Entidades\GraficoDeVentas.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\Provedores.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\PersistenciaDAO\DAOVenta.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsAdd\DetalleDeVenta.java
+C:\Users\Frank\Documents\NetBeansProjects\PROYECTOS CICLO I --V\SistemaDeVentasEinventario-ProyectoFinalPOO\src\main\java\com\mycompany\sistemadeventaseinventario\Presentacion\Modulos\FormsEdit\EditProveedor.java

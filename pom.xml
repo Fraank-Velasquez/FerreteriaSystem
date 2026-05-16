@@ -7,6 +7,32 @@
     <packaging>jar</packaging>
     <build>
         <plugins>
+            
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.3.0</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                        <configuration>
+                            <archive>
+                                <manifest>
+                                    <!-- ¡MUY IMPORTANTE! Reemplaza esto con la ruta a tu clase Main -->
+                                    <mainClass>com.mycompany.sistemadeventaseinventario.MainAPP</mainClass>
+                                </manifest>
+                            </archive>
+                            <descriptorRefs>
+                                <descriptorRef>jar-with-dependencies</descriptorRef>
+                            </descriptorRefs>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -77,4 +103,12 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.sistemadeventaseinventario.proyectofinalpoo.SistemaDeVentasEinventarioProyectoFinalPOO</exec.mainClass>
     </properties>
+    
+    
+    
+    
+    
+    
+    
+    
 </project>
