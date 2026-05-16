@@ -93,7 +93,7 @@
         <dependency>
             <groupId>org.jfree</groupId>
             <artifactId>jfreechart</artifactId>
-            <version>1.5.3</version> <!-- Usamos una versión moderna y estable -->
+            <version>1.5.3</version>
         </dependency>
 
 
